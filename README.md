@@ -1,2 +1,0 @@
-# quickdro
-Kaggle quickdraw
