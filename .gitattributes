@@ -1,2 +1,16 @@
 subs filter=lfs diff=lfs merge=lfs -text
 models filter=lfs diff=lfs merge=lfs -text
+models/train-4-67vloss-128px-color-stage-2-0312.pth filter=lfs diff=lfs merge=lfs -text
+models/res34-128-2p100-stage-1-0312.pth filter=lfs diff=lfs merge=lfs -text
+subs/res34-128-2p100.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/res50-128-2.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/res50-224.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-1-77loss-96px-color.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-2-50loss-128-4.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-4-67vloss-128px-color.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/res50-96.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/testing-train-NA-naloss-128px-color.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-1-50loss-128-4.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-1-69loss-196-2.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-2-74loss-96px-color.csv.gz filter=lfs diff=lfs merge=lfs -text
+subs/train-3-64loss-96px-color.csv.gz filter=lfs diff=lfs merge=lfs -text
